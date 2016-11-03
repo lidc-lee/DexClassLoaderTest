@@ -2,7 +2,7 @@
 
 ### 动态类转载器DexClassLoader
 
- ** ClassLoader **--类加载器，它的作用就是动态的装载Class文件。
+ **ClassLoader**--类加载器，它的作用就是动态的装载Class文件。
  
  与import的区别：
  使用import关键字引用的类有2个条件：
